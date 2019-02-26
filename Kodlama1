@@ -1,0 +1,61 @@
+<html> 
+  <head>
+     <title>Arya Aslan</title>
+  </head>
+  <body>
+      <p>
+         Arya Aslan
+      </p>
+      <b>
+         Arya Aslan
+      </b>
+      <p>
+         <i>Arya Aslan</i>
+      </p>
+    <ul type="circle">
+       <li>Ozet</li>
+       <li>Deneyim</li>
+       <li>Egitim</li>
+       <li>Yetenekler</li>
+       <li>Iletisim</li>
+    </ul>
+    <main>
+       <section>
+         <h2>Ozet</h2>
+         <p>Mühendislik 1.sınıf öğrencisiyim.
+       </section>
+       <section>
+         <h2>Deneyim</h2>
+         <ul>
+           <li>
+            <b>Atolye Egitimi</b><br>
+           </li>
+         </ul>
+       </section>
+       <section>
+         <h2>Egitim</h2>
+         <ul>
+           <li>Izmir Ataturk Lisesi</li>
+           <li>Dokuz Eylul Universitesi Endustri Muhendisligi</li>
+         </ul>
+       </section>
+       <section>
+         <h2>Yetenekler</h2>
+         <p>Yelken,kukla,resim</p>
+       </section>
+       <section> 
+          <h2>Iletisim</h2>
+          <ul>
+            <li> 
+              <p>aryaaslan@hotmail.com</p>
+            </li>
+            <li>
+              <p>instagram.com/aryaaslan</p>
+            </li>
+          </ul>
+       </section>
+       </body>
+       </html>
+   
+           
+            
